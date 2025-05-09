@@ -19,7 +19,6 @@ _"Empowering engineering teams with actionable insights to accelerate software d
 #### **📬 Connect with Me**
 - **GitHub:** [paruff](https://github.com/paruff)  
 - **LinkedIn:** [Phil Ruff](https://www.linkedin.com/in/phil-ruff/)  
-- **Website:** _(If you have a personal blog or portfolio, include it here)_  
 
 ---
 
