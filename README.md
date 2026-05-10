@@ -13,13 +13,10 @@ I help organizations **optimize software delivery performance** using **data-dri
 - **DORA Metrics Dashboards** – Custom analytics for tracking software delivery performance  
 - **DevOps Automation Tools** – Enhancing CI/CD pipelines for efficiency  
 
-#### **📢 Personal Branding Statement (Optional)**
+#### **📢 Personal Branding Statement **
 _"Empowering engineering teams with actionable insights to accelerate software delivery and enhance reliability."_  
 
 #### **📬 Connect with Me**
 - **GitHub:** [paruff](https://github.com/paruff)  
 - **LinkedIn:** [Phil Ruff](https://www.linkedin.com/in/phil-ruff/)  
 
----
-
-Would you like me to refine any sections further or add more details? 🚀
