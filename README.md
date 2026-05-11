@@ -21,5 +21,5 @@ docker compose up   # any uFawkes stack running in <60 seconds
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-phil--ruff-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/phil-ruff)
 [![Fawkes](https://img.shields.io/badge/fawkes.dev-platform%20engineering-1e2327?style=flat-square)](https://fawkes.dev)
-Revised GitHub bio (the one-liner under your avatar):
+
 Building @paruff/fawkes — open-source DORA AI Capabilities platform · fawkes.dev
