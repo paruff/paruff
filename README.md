@@ -14,6 +14,7 @@ Building the open-source platform engineering stack for teams working with AI.
 | [🛠️ uFawkesDevX](https://github.com/paruff/uFawkesDevX) | Developer control plane | In progress |
  
 make dev-up   # Fawkes full IDP running locally in ~20 minutes
+
 docker compose up   # any uFawkes stack running in <60 seconds
 
 **Based in Obidos, Portugal 🇵🇹 · Building in public · [fawkes.dev](https://fawkes.dev)**
