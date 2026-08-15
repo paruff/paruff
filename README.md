@@ -10,8 +10,8 @@ Building the open-source platform engineering stack for teams working with AI.
 | [🤖 uFawkesAI](https://github.com/paruff/uFawkesAI) | AGENTS.md template for all AI coding agents | Active |
 | [📊 uFawkesObs](https://github.com/paruff/uFawkesObs) | Prometheus + Grafana + AI observability | Active |
 | [🔧 uFawkesPipe](https://github.com/paruff/uFawkesPipe) | Polyglot CI/CD pipeline contract | Active |
-| [📈 uFawkesDORA](https://github.com/paruff/uFawkesDORA) | 6 DORA metrics from GitHub data | In progress |
 | [🛠️ uFawkesDevX](https://github.com/paruff/uFawkesDevX) | Developer control plane | In progress |
+| [📈 uFawkesRes](https://github.com/paruff/uFawkesRes) | 6 DORA metrics from GitHub data | In progress |
  
 make dev-up   # Fawkes full IDP running locally in ~20 minutes
 
